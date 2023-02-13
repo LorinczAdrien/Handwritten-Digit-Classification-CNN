@@ -2,6 +2,8 @@
 
 - Handwritten Digit Classification using a Convolutional Neural Network trained on the MNIST database - Written in x86 Assembly.
 
+![](https://github.com/LorinczAdrien/Handwritten-Digit-Classification-CNN/blob/main/example.gif)
+
 ## Important
 
 - Comments written in Hungarian
